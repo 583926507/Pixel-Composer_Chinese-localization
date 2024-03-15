@@ -20,9 +20,7 @@ The simplified chinese localization file for Pixel-Composer
 
 - `UI.json` 已添加完整汉化文本.
 - `words.json` 已添加完整汉化文本.
-- `nodes.json` 未汉化, 因为似乎暂时还没有效果, 官方还未添加对结点的本地化支持.
-
-作者暂时还没有添加对结点相关文本的绑定, 结点的本地化文件很有可能还需要修改, 因此在此之前暂时不进行 `nodes.json` 的汉化.
+- `nodes.json` 已添加完整汉化文本.
 
 # 备注
 
